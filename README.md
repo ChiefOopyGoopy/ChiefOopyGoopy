@@ -1,8 +1,14 @@
-### Heyo, I'm Aidan! 👋
+# Heyo, I'm Aidan! 👋
 I am currently trying to finish my CompSci degree and improve my programming/developer skills in the meantime. Looking forward to sharing and creating some interesting things on here.
 
-Skills: VUE JS (learning) / JS / HTML / CSS / lil bit o' JAVA
-
+## Skills
+  - VUE JS (learning)
+  - HTML
+  - CSS
+  - JS
+  - lil bit o' JAVA
+    
+## Other Info
 - 🔭 I’m currently working on learning a whole lot 
 - 🌱 I’m currently learning GIT 
 - 📫 How to reach me: aidanm42104@gmail.com 
