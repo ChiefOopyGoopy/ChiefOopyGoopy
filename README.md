@@ -9,7 +9,7 @@ I am currently trying to finish my CompSci degree and improve my programming/dev
   - lil bit o' JAVA
     
 ## Other Info
-- 🔭 I’m currently working on learning a whole lot 
+- 🔭 I’m currently working on learning a whole lot and my degree
 - 🌱 I’m currently learning GIT 
 - 📫 How to reach me: aidanm42104@gmail.com 
 
