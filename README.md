@@ -2,10 +2,11 @@
 I am currently trying to finish my CompSci degree and improve my programming/developer skills in the meantime. Looking forward to sharing and creating some interesting things on here.
 
 ## Skills
-  - VUE JS (learning)
+  - Tailwind
   - HTML
   - CSS
   - JS
+  - Capacitor (for Android)
   - lil bit o' JAVA
     
 ## Other Info
