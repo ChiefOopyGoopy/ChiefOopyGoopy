@@ -11,7 +11,7 @@ I am currently trying to finish my CompSci degree and improve my programming/dev
     
 ## Other Info
 - 🔭 I’m currently working on learning a whole lot and my degree
-- 🌱 I’m currently learning GIT 
+- 🌱 I’m currently learning web dev stuff
 - 📫 How to reach me: aidanm42104@gmail.com
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67d0f83a81e9e8dd79c7e148?variant=dark)](https://roadmap.sh/u/aidanm42104)
